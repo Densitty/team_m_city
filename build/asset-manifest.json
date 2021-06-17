@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a8b9fc1.chunk.css",
+    "main.js": "/static/js/main.72e8e167.chunk.js",
+    "main.js.map": "/static/js/main.72e8e167.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4a2c04ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4a2c04ac.js.map",
+    "static/js/2.81c4b536.chunk.js": "/static/js/2.81c4b536.chunk.js",
+    "static/js/2.81c4b536.chunk.js.map": "/static/js/2.81c4b536.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1a8b9fc1.chunk.css.map": "/static/css/main.1a8b9fc1.chunk.css.map",
+    "static/js/2.81c4b536.chunk.js.LICENSE.txt": "/static/js/2.81c4b536.chunk.js.LICENSE.txt",
+    "static/media/Otamendi.697839a2.png": "/static/media/Otamendi.697839a2.png",
+    "static/media/Raheem_Sterling_col.8f2f05e5.png": "/static/media/Raheem_Sterling_col.8f2f05e5.png",
+    "static/media/Vincent_Kompany_col.9baee18b.png": "/static/media/Vincent_Kompany_col.9baee18b.png",
+    "static/media/featured_player.0fc1d392.png": "/static/media/featured_player.0fc1d392.png",
+    "static/media/jersey.51031b95.jpg": "/static/media/jersey.51031b95.jpg",
+    "static/media/manchester_city_logo.6285657d.png": "/static/media/manchester_city_logo.6285657d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2c04ac.js",
+    "static/js/2.81c4b536.chunk.js",
+    "static/css/main.1a8b9fc1.chunk.css",
+    "static/js/main.72e8e167.chunk.js"
+  ]
+}
